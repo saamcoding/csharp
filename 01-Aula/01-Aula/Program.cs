@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             int idade = 21;
-            string nomeCompleto = "Sarah Santiago";
+            string nomeCompleto = "Diego Áquila";
 
             //  VAR - Declaração de variável com tipo inferido
             //  É uma forma simplificada de declarar uma variável,
@@ -20,8 +20,9 @@
             Console.WriteLine(variavelSemTipo.GetType()); //  Vai imprimir: System.String
 
             Console.Write("Digite seu nome: ");
-            //  Foi criada uma variável do tipo string 
-            //  para guardar o que o usuario digitar.
+            //  Foi criada uma variável do tipo
+            //  string 'nomeUsuario' para guardar
+            //  o que o usuario digitar.
             string nomeUsuario = Console.ReadLine(); // -> leia(nomeUsuario)
 
             Console.Write("Digite sua idade: ");
