@@ -20,8 +20,9 @@
             Console.WriteLine(variavelSemTipo.GetType()); //  Vai imprimir: System.String
 
             Console.Write("Digite seu nome: ");
-            //  Foi criada uma variável do tipo string 
-            //  para guardar o que o usuario digitar.
+            //  Foi criada uma variável do tipo
+            //  string 'nomeUsuario' para guardar
+            //  o que o usuario digitar.
             string nomeUsuario = Console.ReadLine(); // -> leia(nomeUsuario)
 
             Console.Write("Digite sua idade: ");
