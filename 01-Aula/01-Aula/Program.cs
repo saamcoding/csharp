@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             int idade = 21;
-            string nomeCompleto = "Sarah Santiago";
+            string nomeCompleto = "Diego Áquila";
 
             //  VAR - Declaração de variável com tipo inferido
             //  É uma forma simplificada de declarar uma variável,
