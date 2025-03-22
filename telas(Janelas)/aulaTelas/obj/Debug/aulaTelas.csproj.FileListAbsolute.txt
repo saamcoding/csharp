@@ -1,0 +1,11 @@
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\bin\Debug\aulaTelas.exe.config
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\bin\Debug\aulaTelas.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\bin\Debug\aulaTelas.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.csproj.AssemblyReference.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.Form1.resources
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.Properties.Resources.resources
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.csproj.GenerateResource.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\telas(Janelas)\aulaTelas\obj\Debug\aulaTelas.TelaMenuPrincipal.resources

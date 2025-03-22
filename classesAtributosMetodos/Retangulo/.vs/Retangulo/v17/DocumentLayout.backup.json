@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Classes, atributos e metodos\\Retangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6E8A7-D0DA-48F0-BBE2-948E0A6763C9}|Retangulo\\Retangulo.csproj|C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Classes, atributos e metodos\\Retangulo\\retangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6E8A7-D0DA-48F0-BBE2-948E0A6763C9}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6E8A7-D0DA-48F0-BBE2-948E0A6763C9}|Retangulo\\Retangulo.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\csharp\\classes, atributos e metodos\\retangulo\\retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6E8A7-D0DA-48F0-BBE2-948E0A6763C9}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Classes, atributos e metodos\\Retangulo\\Retangulo\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Classes, atributos e metodos\\Retangulo\\Retangulo\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:13:36.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Classes, atributos e metodos\\Retangulo\\Retangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Classes, atributos e metodos\\Retangulo\\Retangulo\\Program.cs",
+              "RelativeToolTip": "Retangulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:12:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

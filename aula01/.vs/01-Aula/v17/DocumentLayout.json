@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\C#\\01-Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C68B44-BE4B-46C7-997E-3E71EC90944C}|01-Aula\\01-Aula.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\c#\\01-aula\\01-aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C68B44-BE4B-46C7-997E-3E71EC90944C}|01-Aula\\01-Aula.csproj|solutionrelative:01-aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\C#\\01-Aula\\01-Aula\\Program.cs",
+              "RelativeDocumentMoniker": "01-Aula\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\C#\\01-Aula\\01-Aula\\Program.cs",
+              "RelativeToolTip": "01-Aula\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:17:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

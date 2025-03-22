@@ -1,0 +1,14 @@
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\bin\Debug\net9.0\01-Aula.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\bin\Debug\net9.0\01-Aula.deps.json
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\bin\Debug\net9.0\01-Aula.runtimeconfig.json
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\bin\Debug\net9.0\01-Aula.dll
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\bin\Debug\net9.0\01-Aula.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.AssemblyInfoInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.AssemblyInfo.cs
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.dll
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\refint\01-Aula.dll
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\01-Aula.genruntimeconfig.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\01-Aula\01-Aula\obj\Debug\net9.0\ref\01-Aula.dll

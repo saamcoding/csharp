@@ -1,0 +1,14 @@
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\bin\Debug\Produto.exe.config
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\bin\Debug\Produto.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\bin\Debug\Produto.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\obj\Debug\Produto.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Produto\Produto\obj\Debug\Produto.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\bin\Debug\Produto.exe.config
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\bin\Debug\Produto.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\bin\Debug\Produto.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\obj\Debug\Produto.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Aulas\classesAtributosMetodos\Produto\Produto\obj\Debug\Produto.pdb

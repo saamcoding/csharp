@@ -1,0 +1,17 @@
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\bin\Debug\net9.0-windows\Aula01WF.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\bin\Debug\net9.0-windows\Aula01WF.deps.json
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\bin\Debug\net9.0-windows\Aula01WF.runtimeconfig.json
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\bin\Debug\net9.0-windows\Aula01WF.dll
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\bin\Debug\net9.0-windows\Aula01WF.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.Form1.resources
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.Properties.Resources.resources
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.csproj.GenerateResource.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.AssemblyInfoInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.AssemblyInfo.cs
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.dll
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\refint\Aula01WF.dll
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\Aula01WF.genruntimeconfig.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\C#\Aula01WF\Aula01WF\obj\Debug\net9.0-windows\ref\Aula01WF.dll

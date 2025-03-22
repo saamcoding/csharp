@@ -1,0 +1,7 @@
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\bin\Debug\Liastas_e_Arrays.exe.config
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\bin\Debug\Liastas_e_Arrays.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\bin\Debug\Liastas_e_Arrays.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\obj\Debug\Liastas_e_Arrays.csproj.AssemblyReference.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\obj\Debug\Liastas_e_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\obj\Debug\Liastas_e_Arrays.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Listas_e_Arrays\Liastas_e_Arrays\obj\Debug\Liastas_e_Arrays.pdb

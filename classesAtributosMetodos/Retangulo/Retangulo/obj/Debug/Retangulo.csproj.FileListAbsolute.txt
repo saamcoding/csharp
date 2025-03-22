@@ -1,0 +1,7 @@
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.AssemblyReference.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\sarah.santiago\OneDrive - SENAC - SP\Transforme-se\CSharp\Classes, atributos e metodos\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

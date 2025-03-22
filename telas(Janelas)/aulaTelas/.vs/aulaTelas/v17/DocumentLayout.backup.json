@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\telamenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|solutionrelative:telamenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|c:\\users\\sarah.santiago\\onedrive - senac - sp\\transforme-se\\csharp\\aulas\\telas(janelas)\\aulatelas\\telamenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|solutionrelative:telamenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D928D957-6963-4399-858E-6C171F9B5C9A}|aulaTelas.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:17:12.129Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:33:50.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelaMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\TelaMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "TelaMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\TelaMenuPrincipal.cs",
+              "RelativeToolTip": "TelaMenuPrincipal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:02:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:57:24.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\TelaMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "TelaMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\sarah.santiago\\OneDrive - SENAC - SP\\Transforme-se\\CSharp\\Aulas\\telas(Janelas)\\aulaTelas\\TelaMenuPrincipal.cs [Design]",
+              "RelativeToolTip": "TelaMenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:02:08.515Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
